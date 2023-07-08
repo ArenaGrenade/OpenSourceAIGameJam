@@ -1,0 +1,18 @@
+{
+  "name": "openaigamejam",
+  "version": "1.0.0",
+  "description": "Our submiission for the OpenAI Game Jam by HuggingFace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "open-ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  }
+}
